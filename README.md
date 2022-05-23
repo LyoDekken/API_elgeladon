@@ -1,7 +1,7 @@
 # API_elgeladon
 
-# Js_Vanilla
-# NodeJs
+# Js_Vanilla ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+# NodeJs ![NODE.JS](https://img.shields.io/badge/Node.js-006400?style=for-the-badge&logo=node.js&logoColor=white)
 
 
 ## Site ("fake") de consumo através API chamada EL GELADON, os requisitos propostos são:
