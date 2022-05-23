@@ -6,7 +6,7 @@
 
 ## Site ("fake") de consumo através API chamada EL GELADON, os requisitos propostos são:
 
-<div align = "center" >
+<div align = "right" >
   
 - Consumo API (2 pontos);
 - Formatação do código utilizando o Prettier (2 pontos);
